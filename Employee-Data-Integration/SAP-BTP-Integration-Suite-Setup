@@ -1,1 +1,20 @@
+🚀 Successfully Completed SAP BTP & SAP Integration Suite Initial Setup
 
+Today I completed the initial setup of SAP Integration Suite on SAP Business Technology Platform (SAP BTP) Trial.
+
+During this hands-on activity, I performed:
+
+✅ Created SAP BTP Trial Account
+✅ Configured Global Account & Subaccount
+✅ Enabled Cloud Foundry Environment
+✅ Assigned required entitlements
+✅ Accessed SAP Integration Suite
+✅ Explored Design, Configure, Monitor and Test capabilities
+
+This setup provided a strong understanding of how SAP Integration Suite serves as a unified iPaaS platform for integrating SAP and non-SAP applications.
+
+This marks the first step in my SAP CPI learning journey. My next focus is on building end-to-end Integration Flows, Message Mappings, Groovy Scripts, and API integrations.
+
+Looking forward to sharing more SAP CPI projects soon!
+
+#SAP #SAPBTP #SAPIntegrationSuite #SAPCPI #CloudIntegration #IntegrationDeveloper #SAPLearning #Technology #GitHub
